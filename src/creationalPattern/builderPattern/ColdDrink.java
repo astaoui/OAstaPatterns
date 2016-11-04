@@ -6,7 +6,7 @@ package creationalPattern.builderPattern;
 public abstract class ColdDrink implements Item {
 
     @Override
-    public Packigin packigin() {
+    public Packing packing() {
         return new Bottle();
     }
 

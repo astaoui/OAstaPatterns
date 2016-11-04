@@ -6,7 +6,7 @@ package creationalPattern.builderPattern;
 public interface Item {
 
     public String name();
-    public Packigin packigin();
+    public Packing packing();
     public float price();
 
 }
