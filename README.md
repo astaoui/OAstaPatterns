@@ -38,3 +38,5 @@
  As per the design pattern reference book Design Patterns - Elements of Reusable ObjectOriented Software , there are 23 design patterns. These patterns can be classified in three
  categories: Creational, Structural and behavioral patterns. We'll also discuss another category of
  design patterns: J2EE design patterns.
+ 
+ 
