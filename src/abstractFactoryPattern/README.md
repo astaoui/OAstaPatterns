@@ -4,8 +4,9 @@ Le motif de conception Abstract Factory (fabrique abstraite) permet de fournir u
 objets d'une même famille sans avoir à connaître les classes à instancier.
 
 L'utilisation de ce motif est pertinente lorsque :
-    • Le système doit être indépendant de la création des objets qu'il utilise
-    • Le système doit être capable de créer des objets d'une même famille
+
+        •   Le système doit être indépendant de la création des objets qu'il utilise.
+        •   Le système doit être capable de créer des objets d'une même famille.
 
 Le principal avantage de ce motif de conception est d'isoler la création des objets retournés par la fabrique. L'utilisation
 d'une fabrique abstraite permet de facilement remplacer une fabrique par une autre selon les besoins.

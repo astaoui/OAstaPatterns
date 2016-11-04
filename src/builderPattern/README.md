@@ -1,10 +1,12 @@
 
-Builder pattern builds a complex object using simple objects and using a step by step approach.
+**Builder pattern **
+
+builds a complex object using simple objects and using a step by step approach.
 This type of design pattern comes under creational pattern as this pattern provides one of the best
 ways to create an object.
 A Builder class builds the final object step by step. This builder is independent of other objects.
 
-Implementation:
+**Implementation:**
 
 We've considered a business case of fast-food restaurant where a typical meal could be a burger
 and a cold drink. Burger could be either a Veg Burger or Chicken Burger and will be packed by a
