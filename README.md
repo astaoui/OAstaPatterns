@@ -33,10 +33,12 @@
  Design patterns have been evolved over a long period of time and they provide best solutions to certain problems faced during software development. 
  Learning these patterns helps unexperienced developers to learn software design in an easy and faster way.
  
-** Types of Design Pattern**
+**Types of Design Pattern**
 
  As per the design pattern reference book Design Patterns - Elements of Reusable ObjectOriented Software , there are 23 design patterns. These patterns can be classified in three
  categories: Creational, Structural and behavioral patterns. We'll also discuss another category of
  design patterns: J2EE design patterns.
  
- 
+ **_Ressources_**
+ [http://jmdoudoux.developpez.com/cours/developpons/java/chap-design-patterns.php#design-patterns](http://jmdoudoux.developpez.com/cours/developpons/java/chap-design-patterns.php#design-patterns)
+ [https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm](https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm)
