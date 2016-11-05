@@ -40,5 +40,6 @@
  design patterns: J2EE design patterns.
  
  **_Ressources_**
+ 
  [http://jmdoudoux.developpez.com/cours/developpons/java/chap-design-patterns.php#design-patterns](http://jmdoudoux.developpez.com/cours/developpons/java/chap-design-patterns.php#design-patterns)
  [https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm](https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm)
